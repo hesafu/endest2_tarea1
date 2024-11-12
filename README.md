@@ -1,0 +1,1 @@
+Git ya está totalmente controlado
